@@ -35,15 +35,7 @@ LABEL_MAPPING = {
 
 
 def create_output_directory(input_path):
-    """
-    Create output directory based on input path.
 
-    Args:
-        input_path (str): Input directory path
-
-    Returns:
-        str: Path to output directory
-    """
     # Get the parent directory and current folder name
     parent_dir = os.path.dirname(input_path.rstrip('/'))
     current_folder = os.path.basename(input_path.rstrip('/'))
