@@ -32,8 +32,6 @@ LABEL_MAPPING = {
 }
 
 
-
-
 def create_output_directory(input_path):
 
     # Get the parent directory and current folder name
