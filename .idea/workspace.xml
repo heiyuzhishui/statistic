@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="818450ed-2d58-486b-98e0-658b8b5f0bf7" name="更改" comment="main">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/area_filter.py" beforeDir="false" afterPath="$PROJECT_DIR$/area_filter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xml.py" beforeDir="false" afterPath="$PROJECT_DIR$/xml_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xml5.py" beforeDir="false" afterPath="$PROJECT_DIR$/xml5.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,18 +36,18 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {}
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {}
+}</component>
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="a0ee4862-68b7-4744-9576-f6a501c351f1" />
   </component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/heiyuzhishui/statistic.git&quot;,
-    &quot;accountId&quot;: &quot;a0ee4862-68b7-4744-9576-f6a501c351f1&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "git@github.com:heiyuzhishui/statistic.git",
+    "accountId": "a0ee4862-68b7-4744-9576-f6a501c351f1"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -63,8 +65,8 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/home/depth/statistic",
-    "settings.editor.selected.configurable": "vcs.Git"
+    "last_opened_file_path": "/home/depth/PycharmProjects/statistic",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -181,7 +183,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="main" />
+                        <option value="origin/main" />
                       </list>
                     </value>
                   </entry>
