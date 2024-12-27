@@ -1,5 +1,5 @@
 import os
-import switch.etree.ElementTree as ET
+import xml.etree.ElementTree as ET
 from pathlib import Path
 
 # 定义图片标准尺寸

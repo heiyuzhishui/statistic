@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="818450ed-2d58-486b-98e0-658b8b5f0bf7" name="更改" comment="main">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/area_filter.py" beforeDir="false" afterPath="$PROJECT_DIR$/area_filter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xml.py" beforeDir="false" afterPath="$PROJECT_DIR$/xml_.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xml5.py" beforeDir="false" afterPath="$PROJECT_DIR$/xml5.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,12 +41,12 @@
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="a0ee4862-68b7-4744-9576-f6a501c351f1" />
   </component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "git@github.com:heiyuzhishui/statistic.git",
-    "accountId": "a0ee4862-68b7-4744-9576-f6a501c351f1"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:heiyuzhishui/statistic.git&quot;,
+    &quot;accountId&quot;: &quot;a0ee4862-68b7-4744-9576-f6a501c351f1&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -62,6 +61,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Python.switch.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
@@ -203,5 +203,16 @@
     <MESSAGE value="6" />
     <MESSAGE value="main" />
     <option name="LAST_COMMIT_MESSAGE" value="main" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
