@@ -179,7 +179,6 @@ def find_image_file(json_dir, image_name):
     print(f"Warning: Could not find image file {image_name}")
     return None
 
-
 def create_xml(json_data, json_file_path):
     """Create XML annotation from JSON data."""
     data = json.loads(json_data) if isinstance(json_data, str) else json_data
