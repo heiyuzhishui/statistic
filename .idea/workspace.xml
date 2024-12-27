@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="818450ed-2d58-486b-98e0-658b8b5f0bf7" name="更改" comment="4" />
+    <list default="true" id="818450ed-2d58-486b-98e0-658b8b5f0bf7" name="更改" comment="4">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xmlxml.py" beforeDir="false" afterPath="$PROJECT_DIR$/xmlxml.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,6 +37,9 @@
   <component name="GitHubPullRequestSearchHistory"><![CDATA[{
   "lastFilter": {}
 }]]></component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="a0ee4862-68b7-4744-9576-f6a501c351f1" />
+  </component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/heiyuzhishui/statistic.git&quot;,
@@ -55,7 +61,8 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "/home/depth/statistic"
+    "last_opened_file_path": "/home/depth/statistic",
+    "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
   <component name="SharedIndexes">
