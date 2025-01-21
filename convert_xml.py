@@ -25,7 +25,7 @@ LABEL_MAPPING = {
     'tvCabinet': ['tv_cabinet', 'TV cabinet'],
     'fridge': ['refrigerator', 'Refrigerator'],
     'television': ['screen', 'TV', 'Television'],
-    'washingMachine': ['washing_machine', 'Washing', 'washing machine' ],
+    'washingMachine': ['washing_machine', 'Washing', 'washing machine', 'Washer'],
     'electricFan': ['Fan'],
     'remoteControl': [],
     'shoeCabinet': ['shoebox']

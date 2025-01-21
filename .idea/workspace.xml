@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="818450ed-2d58-486b-98e0-658b8b5f0bf7" name="更改" comment="process_file.md" />
+    <list default="true" id="818450ed-2d58-486b-98e0-658b8b5f0bf7" name="更改" comment="process_file.md">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/illustrate.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/illustrate1.sh" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,7 +66,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/home/depth/PycharmProjects/statistic",
+    "last_opened_file_path": "/home/depth/PycharmProjects/git",
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
@@ -170,7 +174,23 @@
       <option name="project" value="LOCAL" />
       <updated>1735290747482</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="process_file.md">
+      <option name="closed" value="true" />
+      <created>1735290836167</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1735290836167</updated>
+    </task>
+    <task id="LOCAL-00013" summary="process_file.md">
+      <option name="closed" value="true" />
+      <created>1735291018894</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1735291018894</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
