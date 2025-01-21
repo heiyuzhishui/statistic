@@ -15,7 +15,7 @@ LABEL_MAPPING = {
     'socket': ['plug_in_board'],
     'cat': ['pet_cat', 'Cat', 'pet_unknown', 'Pet'],
     'dog': ['pet_dog', 'Dog'],
-    'desk_rect': ['table', 'Table', 'dining_table', 'Dining_table', 'bedside_table'],
+    'desk_rect': ['table', 'Table', 'dining_table', 'Dining_table', 'bedside_table', 'desk_circle'],
     'weighing-scale': ['weight_scale', 'Weighing', 'weighing scale'],
     'key': ['keys'],
     'person': [],
